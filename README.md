@@ -1,6 +1,8 @@
 <h2 align="center">Hi 👋! My name is Emad and I'm a   Web developer from Egypt</h2>
+<img align="right" height="180" src="https://i.imgur.com/rTZkf4K.gif"  />
 
 ###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -32,7 +34,6 @@
 
 ###
 
-<img align="right" height="150" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/be031f8d02ca8cc404d44be54ee2c493.gif"  />
 
 ###
 
@@ -46,5 +47,6 @@
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
 </div>
+<a href=#><img src="contributions.svg"></a>
 
 ###
