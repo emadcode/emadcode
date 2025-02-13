@@ -1,6 +1,6 @@
 <h2 align="left">My name is Emad, I'm a web developer from Egypt. My hobby since childhood has been computers and learning new things. I really love drinking coffee because it's my favorite beverage..</h2> 
 <img align="right" height="170" src="https://www.icegif.com/wp-content/uploads/icegif-6457.gif" />  
-<div align="left">  
+<div align="left">   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript logo" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React logo" />
